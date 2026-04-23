@@ -6,10 +6,12 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 ## Matrix
 |  |
 | ------- |
@@ -22,4 +24,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
