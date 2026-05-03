@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0796-rotate-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -88,4 +89,8 @@
 | [0788-rotated-digits](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
