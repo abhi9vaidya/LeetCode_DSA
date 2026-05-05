@@ -96,4 +96,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
