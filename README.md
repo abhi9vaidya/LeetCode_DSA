@@ -19,6 +19,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -34,6 +35,7 @@
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [1345-jump-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Geometry
 |  |
@@ -136,6 +139,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 ## Number Theory
 |  |
 | ------- |
