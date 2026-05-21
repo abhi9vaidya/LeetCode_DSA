@@ -22,6 +22,7 @@
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
@@ -37,6 +38,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
