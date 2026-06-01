@@ -21,6 +21,7 @@
 | [1861-rotating-the-box](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -120,6 +121,7 @@
 | [1340-jump-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Depth-First Search
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Bit Manipulation
 |  |
 | ------- |
