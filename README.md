@@ -25,6 +25,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -88,6 +89,7 @@
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 ## Counting
