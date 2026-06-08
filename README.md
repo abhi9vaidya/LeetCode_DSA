@@ -22,6 +22,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
