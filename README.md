@@ -45,6 +45,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3838-weighted-word-mapping](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
