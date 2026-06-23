@@ -107,6 +107,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
