@@ -126,6 +126,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
@@ -187,6 +188,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
