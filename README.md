@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0048-rotate-image) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1345-jump-game-iv) |
