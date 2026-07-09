@@ -49,6 +49,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -77,6 +78,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -165,6 +167,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -213,6 +216,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +342,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
