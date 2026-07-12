@@ -14,6 +14,7 @@
 | [1288-remove-covered-intervals](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -68,6 +69,7 @@
 | [0001-two-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
