@@ -73,6 +73,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Shortest Path
 |  |
 | ------- |
