@@ -125,6 +125,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -176,6 +177,7 @@
 | [1840-maximum-building-height](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -336,6 +338,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
