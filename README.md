@@ -26,6 +26,7 @@
 | [1406-stone-game-iii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
@@ -202,6 +203,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2029-stone-game-ix) |
@@ -316,6 +318,7 @@
 | [1340-jump-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3225-maximum-score-from-grid-operations) |
@@ -506,6 +509,7 @@
 | [1140-stone-game-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
