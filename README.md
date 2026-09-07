@@ -152,6 +152,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1871-jump-game-vii) |
@@ -347,6 +348,7 @@
 | [0486-predict-the-winner](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1340-jump-game-v) |
