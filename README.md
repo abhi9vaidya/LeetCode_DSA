@@ -150,6 +150,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -341,6 +342,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0788-rotated-digits) |
