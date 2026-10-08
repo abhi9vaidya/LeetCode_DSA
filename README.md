@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -388,6 +389,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1861-rotating-the-box](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
