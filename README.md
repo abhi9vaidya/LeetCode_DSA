@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0048-rotate-image) |
@@ -385,6 +386,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1861-rotating-the-box](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1861-rotating-the-box) |
