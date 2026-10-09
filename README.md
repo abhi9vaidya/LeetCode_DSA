@@ -104,6 +104,7 @@
 | [0001-two-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1345-jump-game-iv) |
@@ -384,6 +385,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -395,6 +397,7 @@
 | [0061-rotate-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1861-rotating-the-box](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -614,4 +617,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
