@@ -5,17 +5,24 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        set1 = set()
-        currentSum = 0
+        seen = set()
         maxSum = 0
+        currSum = 0
         left = 0
-        for right in range (len(nums)):
-            while nums[right] in set1 or len(set1)==k:
-                set1.remove(nums[left])
-                currentSum -= nums[left]
-                left+=1
-            currentSum += nums[right]
-            set1.add(nums[right])
-            if len(set1) == k:
-                maxSum = max(currentSum, maxSum) 
+        for right in range(len(nums)):
+            while nums[right] in seen:
+                seen.remove(nums[left])
+                currSum -= nums[left]
+                left += 1
+            
+            seen.add(nums[right])
+            currSum += nums[right]
+
+            if(right - left + 1) > k:
+                seen.remove(nums[left])
+                currSum-=nums[left]
+                left +=1
+            
+            if(right - left + 1) == k:
+                maxSum = max(currSum, maxSum)
         return maxSum
