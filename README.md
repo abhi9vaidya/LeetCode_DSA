@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0396-rotate-function](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,6 +202,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
@@ -277,6 +279,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -479,6 +482,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
