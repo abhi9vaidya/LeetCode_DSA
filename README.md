@@ -18,6 +18,7 @@
 | [0486-predict-the-winner](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1140-stone-game-ii) |
@@ -285,6 +286,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
