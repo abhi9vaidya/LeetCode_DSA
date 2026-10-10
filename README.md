@@ -17,6 +17,7 @@
 | [0396-rotate-function](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
