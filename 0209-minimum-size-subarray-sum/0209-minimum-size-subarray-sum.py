@@ -6,8 +6,8 @@ class Solution(object):
         :rtype: int
         """
         left = 0
-        minLen = float('inf')
         currSum = 0
+        minLen = float('inf')
         for right in range(len(nums)):
             currSum+=nums[right]
             while currSum >= target:
@@ -16,8 +16,8 @@ class Solution(object):
                 currSum -= nums[left]
                 left+=1
             right+=1
-        
+
         if minLen!= float('inf'):
             return minLen
-        else:
+        else :
             return 0
