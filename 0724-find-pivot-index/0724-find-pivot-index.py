@@ -4,14 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        total = 0
-        for num in nums:
-            total+=num
-        leftSum = 0
-        for i in range(len(nums)):
-            rightSum = total - leftSum - nums[i]
-            if rightSum == leftSum:
+        leftSum , rightSum = 0, sum(nums)
+        for i, elem in enumerate(nums):
+            rightSum -= elem
+            if leftSum == rightSum:
                 return i
-            leftSum += nums[i]
+            leftSum += elem
         return -1
             
