@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0396-rotate-function](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0877-stone-game) |
@@ -110,6 +111,7 @@
 | [0141-linked-list-cycle](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1345-jump-game-iv) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
