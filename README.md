@@ -57,6 +57,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2239-find-closest-number-to-zero](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/2540-minimum-common-value) |
