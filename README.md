@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
