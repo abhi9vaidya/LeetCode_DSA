@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -311,6 +312,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -646,4 +648,8 @@
 | [0141-linked-list-cycle](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
