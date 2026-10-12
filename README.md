@@ -112,6 +112,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0796-rotate-string) |
@@ -242,6 +244,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/abhi9vaidya/LeetCode_DSA/tree/master/0396-rotate-function) |
