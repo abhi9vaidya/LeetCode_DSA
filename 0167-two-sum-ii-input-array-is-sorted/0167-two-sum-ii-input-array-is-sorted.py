@@ -6,14 +6,13 @@ class Solution(object):
         :rtype: List[int]
         """
         left = 0
-        right = len(numbers)-1
+        right = len(numbers) - 1
         while left < right :
-            total = numbers[left] + numbers[right]
-            if total == target :
+            sum = numbers[left] + numbers[right]
+            if sum == target:
                 return [left+1,right+1]
-            elif total < target :   
+            elif sum < target:
                 left+=1
-            else :
+            else:
                 right-=1
-        
             
